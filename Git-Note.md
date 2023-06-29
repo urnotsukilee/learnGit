@@ -27,7 +27,7 @@ git diff filname
 git log
 git relog
 ```
-In log, you can find the commit_id for every commit and use to reset your file;
+In log, you can find the **commit_id** for every commit and use to reset your file;
 
 ### Reset file which is not added
 ```bash
@@ -61,7 +61,7 @@ git remote add origin git@github.com:your-git-hub-account-name/your-repository-n
 ```bash
 git push -u origin master
 ```
-*-u* 
+**-u** 
 
 5. push committed changed to github
 ```bash
